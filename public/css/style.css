@@ -1,0 +1,12 @@
+.mainpic { 
+    position: relative; 
+    top: 0; 
+    left: 0; 
+    } 
+    
+.userpic { 
+    position: absolute; 
+    width: 250px;
+    top: 25px; 
+    left: 750px; 
+    }
